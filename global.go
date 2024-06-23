@@ -1,4 +1,4 @@
-package logger
+package kzklogger
 
 type Fields map[string]interface{}
 
